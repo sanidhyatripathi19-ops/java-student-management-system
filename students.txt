@@ -1,4 +1,3 @@
-101,Rahul,8.7
-102,Aman,9.1
-103,Priya,8.9
-104,Rohit,8.5
+12,Sanidhya,8
+13,Pari,6
+13,Prakhar,6.5
